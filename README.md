@@ -92,21 +92,9 @@ I believe that great engineering comes from continuous learning, curiosity, and 
 <br>
 
 
-## 📈 GitHub Insights
+## 📈 GitHub Analytics
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=1Oumaima1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Oumaima1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=1Oumaima1&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
