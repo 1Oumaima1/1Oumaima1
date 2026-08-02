@@ -4,8 +4,8 @@
 
 <br>
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Oumaima+%F0%9F%91%8B;Software+Engineering+Student;AI+%26+Data+Science+Enthusiast;Open+to+Internship+Opportunities+%E2%9C%A8"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Passionate+about+Artificial+Intelligence;Exploring+Data+Science+and+Machine+Learning;Building+Real-World+Software+Solutions;Always+Learning+-+Always+Building" />
 </a>
 
 <br><br>
